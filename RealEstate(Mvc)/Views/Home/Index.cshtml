@@ -1,0 +1,82 @@
+﻿
+
+@{
+    ViewBag.Title = "Manage Your Property";
+    Layout = "_Layout";
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="~/css/Dashbord.css" rel="stylesheet" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="Master1">
+        <div class="Child1">
+            <img src="~/Logo1.jpg" alt="Alternate Text" class="small-image" />
+            <div class="Child1-2">
+                <h3>TJ HOMELAND AND ASSOCIATES LTD</h3>
+            </div>
+        </div>
+        <div class="Child2">
+            <h4>Welcome, To Our Web Application</h4>
+            <h2>Manage Your Property</h2>
+            <p>
+                you will have evrything nearby supermarket, buses, stations, cinemas <br>
+                theatres, the Carmen neighbourhood, etc.
+            </p>
+        </div>
+        <div class="Child3">
+            <form action="/search" method="get" class="search-form">
+                <button type="submit" class="search-button">Search</button>
+                <input type="text" name="query" placeholder="Find a property by your description" class="search-input" required>
+            </form>
+
+        </div>
+
+        <div class="property-container">
+            <div class="property-card">
+                <img src="~/Property1.jpg" alt="Sobha Heartland || Villas">
+                <div class="property-details">
+                    <h3>Sobha Heartland || Villas</h3>
+                    <p>4 Bedroom Villa for Rent in Al Barsha 1 Villas, Al Barsha 1, Al Barsha.</p>
+                    <div class="property-meta">
+                        <span class="rating">4.83</span>
+                        <span class="price">$189 / Night</span>
+                    </div>
+                    <button class="book-now">Book Now</button>
+                </div>
+            </div>
+            <div class="property-card">
+                <img src="~/Property2.jpg" alt="MyKonos Damac Lagoons">
+                <div class="property-details">
+                    <h3>MyKonos Damac Lagoons</h3>
+                    <p>2 Bedroom Apartment for Rent in Balqis Residence, Palm Jumeirah.</p>
+                    <div class="property-meta">
+                        <span class="rating">4.67</span>
+                        <span class="price">$560 / Night</span>
+                    </div>
+                    <button class="book-now">Book Now</button>
+                </div>
+            </div>
+            <div class="property-card">
+                <img src="~/Property3.jpg" alt="Verdana 2 Residence">
+                <div class="property-details">
+                    <h3>Verdana 2 Residence</h3>
+                    <p>1 Bedroom Apartment for Rent in Continental Tower, Dubai Marina.</p>
+                    <div class="property-meta">
+                        <span class="rating">4.45</span>
+                        <span class="price">$231 / Night</span>
+                    </div>
+                    <button class="book-now">Book Now</button>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</body>
+</html>

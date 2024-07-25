@@ -1,0 +1,122 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <style>
+  
+
+
+        body, html {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f8f8f8;
+            height: 100%; /* Ensure the body and html take full height */
+        }
+
+        .sidebar {
+            width: 250px;
+            background-color: #ffffff;
+            height: 150vh; /* Full height */
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            /* Removed margin-top */
+        }
+
+        .main-content {
+            margin-left: 270px; /* Adjust to ensure no overlap or drop down */
+            min-height: 100vh; /* Ensure full height for content area */
+            box-sizing: border-box; /* Include padding in height calculation */
+        }
+
+        .header {
+            background-color: #ffffff;
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+
+            .header h2 {
+                margin: 0;
+            }
+
+        .content {
+            margin-top: 20px;
+        }
+
+            .content .card {
+                background-color: #ffffff;
+                padding: 20px;
+                box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+                margin-bottom: 20px;
+            }
+
+        .performance-chart {
+            height: 200px;
+            background-color: #f0f0f0;
+            margin-bottom: 20px;
+        }
+
+        .tasks-list {
+            margin-top: 20px;
+        }
+
+            .tasks-list ul {
+                list-style-type: none;
+                padding: 0;
+            }
+
+                .tasks-list ul li {
+                    padding: 15px 0;
+                    border-bottom: 1px solid #ddd;
+                }
+
+                    .tasks-list ul li a {
+                        text-decoration: none;
+                        color: #333;
+                    }
+
+    </style>
+
+</head>
+<body>
+    <div>
+        <div class="sidebar">
+        <h1>Logo</h1>
+        <ul>
+            <a asp-controller="Property" asp-action="CreateProperty">Create Property</a>
+
+            <li><a href="#">Projects</a></li>
+            <li><a href="#">Tasks</a></li>
+            <li><a href="#">Team</a></li>
+            <li><a href="#">Settings</a></li>
+        </ul>
+    </div>
+   
+
+    <div class="main-content">
+        <div class="header">
+            <h2>Hello, Margaret</h2>
+        </div>
+       
+        <div class="content">
+            <div class="card performance-chart">
+                <h3>Performance</h3>
+                <!-- Insert your chart here -->
+            </div>
+
+            <div class="card tasks-list">
+                <h3>Current Tasks</h3>
+                <ul>
+                    <li><a href="#">Product Review for UI/UX Market</a></li>
+                    <li><a href="#">UX Research for Product</a></li>
+                    <li><a href="#">App design and development</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    </div>
+    
+
+</body>
+</html>

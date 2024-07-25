@@ -1,0 +1,134 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]TJ HOME LAND AND PROPERTY</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/RealEstate_Mvc_.styles.css" asp-append-version="true" />
+     <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .navbar {
+            display: flex;
+            background-color: #333;
+            padding: 10px;
+        }
+        .navbar a {
+            color: white;
+            text-decoration: none;
+            padding: 14px 20px;
+            display: inline-block;
+            transition: background-color 0.3s;
+        }
+        .navbar a:hover {
+            background-color: #575757;
+        }
+        .navbar .dropdown {
+            position: relative;
+            display: inline-block;
+        }
+        .navbar .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            min-width: 160px;
+        }
+        .navbar .dropdown-content a {
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+        }
+        .navbar .dropdown-content a:hover {
+            background-color: #f1f1f1;
+        }
+        .navbar .dropdown:hover .dropdown-content {
+            display: block;
+        }
+    </style>
+</head>
+
+
+
+
+
+<body>
+
+    <header>
+
+        @if(User.Identity.IsAuthenticated)
+        {
+            
+        } 
+
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">TJ HOMELAND AND ASSOCIATES LTD</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                       
+                        <li class="nav-item">
+                            <div class="navbar-collapse collapse">
+                        <li class="nav-item">
+                            <a class="nav-link " asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        </li>
+                                <ul class="nav navbar-nav navbar-right">
+                                    <li class="hidden-lg hidden-md">
+                                        <a href="/" class="remove-content">Home</a>
+                                    </li>
+                                    <li>
+                                        <a href="/for-sale" class="remove-content">For Sale</a>
+                                    </li>
+                                    <li>
+                                        <a href="/for-rent" class="remove-content">For Rent</a>
+                                    </li>
+                                    <li class="dropdown">
+                                        <a href="/market-trends" class="dropdown-toggle" data-toggle="dropdown"><span class="hidden-md">Market</span> Trends &nbsp;<span class="badge badge-base hidden-lg hidden-md">New</span></a>
+                                        <ul class="dropdown-menu">
+                                            <li><a href="/market-trends/demand-trends"><i class="fal fa-search-location fa-fw"></i> &nbsp;Property Demand Trends</a></li>
+                                            <li><a href="/market-trends/average-prices"><i class="fal fa-coins fa-fw"></i> &nbsp;Average Property Prices</a></li>
+                                        </ul>
+
+                                        
+                                    </li>
+                                    <li>
+                                        <a asp-controller="Customer" asp-action="CreateCustomer" class="remove-content">Register</a>
+                                    </li>
+                                    <li>
+                                        <a asp-controller="User" asp-action="Login" class="remove-content">Sign In</a>
+                                    </li>
+                                </ul>
+                            </div>
+                </div>
+            </div>
+    </header>
+  
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+    

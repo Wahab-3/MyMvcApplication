@@ -1,0 +1,28 @@
+C:\Users\USER\Desktop\RealEstateConsoleApp\bin\Debug\net6.0\RealEstateConsoleApp.exe
+C:\Users\USER\Desktop\RealEstateConsoleApp\bin\Debug\net6.0\RealEstateConsoleApp.deps.json
+C:\Users\USER\Desktop\RealEstateConsoleApp\bin\Debug\net6.0\RealEstateConsoleApp.runtimeconfig.json
+C:\Users\USER\Desktop\RealEstateConsoleApp\bin\Debug\net6.0\RealEstateConsoleApp.dll
+C:\Users\USER\Desktop\RealEstateConsoleApp\bin\Debug\net6.0\RealEstateConsoleApp.pdb
+C:\Users\USER\Desktop\RealEstateConsoleApp\obj\Debug\net6.0\RealEstateConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\RealEstateConsoleApp\obj\Debug\net6.0\RealEstateConsoleApp.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\RealEstateConsoleApp\obj\Debug\net6.0\RealEstateConsoleApp.AssemblyInfo.cs
+C:\Users\USER\Desktop\RealEstateConsoleApp\obj\Debug\net6.0\RealEstateConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\RealEstateConsoleApp\obj\Debug\net6.0\RealEstateConsoleApp.dll
+C:\Users\USER\Desktop\RealEstateConsoleApp\obj\Debug\net6.0\refint\RealEstateConsoleApp.dll
+C:\Users\USER\Desktop\RealEstateConsoleApp\obj\Debug\net6.0\RealEstateConsoleApp.pdb
+C:\Users\USER\Desktop\RealEstateConsoleApp\obj\Debug\net6.0\RealEstateConsoleApp.genruntimeconfig.cache
+C:\Users\USER\Desktop\RealEstateConsoleApp\obj\Debug\net6.0\ref\RealEstateConsoleApp.dll
+C:\Users\USER\Desktop\PogrammingProjects\RealEstateConsoleApp - File\obj\Debug\net6.0\RealEstateConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PogrammingProjects\RealEstateConsoleApp - File\obj\Debug\net6.0\RealEstateConsoleApp.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PogrammingProjects\RealEstateConsoleApp - File\obj\Debug\net6.0\RealEstateConsoleApp.AssemblyInfo.cs
+C:\Users\USER\Desktop\PogrammingProjects\RealEstateConsoleApp - File\obj\Debug\net6.0\RealEstateConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PogrammingProjects\RealEstateConsoleApp - File\obj\Debug\net6.0\RealEstateConsoleApp.dll
+C:\Users\USER\Desktop\PogrammingProjects\RealEstateConsoleApp - File\obj\Debug\net6.0\refint\RealEstateConsoleApp.dll
+C:\Users\USER\Desktop\PogrammingProjects\RealEstateConsoleApp - File\obj\Debug\net6.0\RealEstateConsoleApp.pdb
+C:\Users\USER\Desktop\PogrammingProjects\RealEstateConsoleApp - File\bin\Debug\net6.0\RealEstateConsoleApp.exe
+C:\Users\USER\Desktop\PogrammingProjects\RealEstateConsoleApp - File\bin\Debug\net6.0\RealEstateConsoleApp.deps.json
+C:\Users\USER\Desktop\PogrammingProjects\RealEstateConsoleApp - File\bin\Debug\net6.0\RealEstateConsoleApp.runtimeconfig.json
+C:\Users\USER\Desktop\PogrammingProjects\RealEstateConsoleApp - File\bin\Debug\net6.0\RealEstateConsoleApp.dll
+C:\Users\USER\Desktop\PogrammingProjects\RealEstateConsoleApp - File\bin\Debug\net6.0\RealEstateConsoleApp.pdb
+C:\Users\USER\Desktop\PogrammingProjects\RealEstateConsoleApp - File\obj\Debug\net6.0\RealEstateConsoleApp.genruntimeconfig.cache
+C:\Users\USER\Desktop\PogrammingProjects\RealEstateConsoleApp - File\obj\Debug\net6.0\ref\RealEstateConsoleApp.dll

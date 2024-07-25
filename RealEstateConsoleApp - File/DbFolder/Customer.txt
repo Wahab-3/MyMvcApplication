@@ -1,0 +1,6 @@
+2	sam@gmail.com	aaffSS34002
+3	a@gmail.com	aaffSS34003
+4	r@gmail.com	aaffSS34004
+20	sola@gmail.com	aaffSS340020
+21	john@gmail.com	aaffSS340021
+7	red@gmail.com	aaffSS34007

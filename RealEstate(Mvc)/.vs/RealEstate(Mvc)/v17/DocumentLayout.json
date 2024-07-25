@@ -1,0 +1,1606 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\controllers\\cartegorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:controllers\\cartegorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\views\\property\\createproperty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:views\\property\\createproperty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\dtos\\propertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:dtos\\propertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\views\\user\\superadmindashbord.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:views\\user\\superadmindashbord.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\repository\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:repository\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\service\\implementation\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:service\\implementation\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\repository\\implementation\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:repository\\implementation\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\repository\\implementation\\staffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:repository\\implementation\\staffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\repository\\implementation\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:repository\\implementation\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\repository\\implementation\\propertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:repository\\implementation\\propertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\repository\\implementation\\ownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:repository\\implementation\\ownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\repository\\implementation\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:repository\\implementation\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\repository\\implementation\\cartegoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:repository\\implementation\\cartegoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\models\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:models\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\context\\contextclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:context\\contextclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\models\\entities\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:models\\entities\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\models\\entities\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:models\\entities\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\service\\implementation\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:service\\implementation\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\wwwroot\\css\\dashbord.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:wwwroot\\css\\dashbord.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\controllers\\propertyscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:controllers\\propertyscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\views\\customer\\createcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:views\\customer\\createcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\service\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:service\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\service\\implementation\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:service\\implementation\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\service\\implementation\\ownerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:service\\implementation\\ownerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\service\\implementation\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:service\\implementation\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\service\\implementation\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:service\\implementation\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\wwwroot\\css\\dashbord.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:wwwroot\\css\\dashbord.css||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\service\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:service\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\service\\implementation\\cartegoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:service\\implementation\\cartegoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\dtos\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:dtos\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\dtos\\staffdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:dtos\\staffdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\dtos\\ownerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:dtos\\ownerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\dtos\\baseresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:dtos\\baseresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\views\\shared\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:views\\shared\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\models\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:models\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\realestate(mvc).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:realestate(mvc).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\repository\\implementation\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:repository\\implementation\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\repository\\interface\\icurrentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:repository\\interface\\icurrentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\service\\interface\\istaffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:service\\interface\\istaffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\service\\interface\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:service\\interface\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\service\\interface\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:service\\interface\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\service\\interface\\ipropertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:service\\interface\\ipropertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\service\\interface\\iownerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:service\\interface\\iownerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\service\\interface\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:service\\interface\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\service\\interface\\icartegoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:service\\interface\\icartegoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\migrations\\contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:migrations\\contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\migrations\\20240715155047_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:migrations\\20240715155047_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\models\\entities\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:models\\entities\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\repository\\interface\\ipropertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:repository\\interface\\ipropertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\repository\\interface\\istaffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:repository\\interface\\istaffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\repository\\interface\\iownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:repository\\interface\\iownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\repository\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:repository\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\models\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:models\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\repository\\interface\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:repository\\interface\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\repository\\interface\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:repository\\interface\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\repository\\interface\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:repository\\interface\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\repository\\interface\\icartegoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:repository\\interface\\icartegoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\models\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:models\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\models\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:models\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\views\\cartegory\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:views\\cartegory\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\models\\enum\\typeofleases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:models\\enum\\typeofleases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\models\\enum\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:models\\enum\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Models\\Context\\Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Context\\Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Models\\Entities\\Seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Entities\\Seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Models\\Entities\\PropertyCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Entities\\PropertyCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\migrations\\20240720165038_inyu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:migrations\\20240720165038_inyu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\migrations\\20240723155323_rderwywiows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:migrations\\20240723155323_rderwywiows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\migrations\\20240724142427_xcvbn6543.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:migrations\\20240724142427_xcvbn6543.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|c:\\users\\user\\desktop\\pogrammingprojects\\realestate(mvc)\\migrations\\20240725215344_2tygwsghshsxhusd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC40BF9-4112-4141-889F-C60C23F40D9F}|RealEstate(Mvc).csproj|solutionrelative:migrations\\20240725215344_2tygwsghshsxhusd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateProperty.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Views\\Property\\CreateProperty.cshtml",
+              "RelativeDocumentMoniker": "Views\\Property\\CreateProperty.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Views\\Property\\CreateProperty.cshtml",
+              "RelativeToolTip": "Views\\Property\\CreateProperty.cshtml",
+              "ViewState": "AQIAABwAAACAmpmZmZkOwBoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T15:48:04.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PropertyController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Controllers\\PropertyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PropertyController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Controllers\\PropertyController.cs",
+              "RelativeToolTip": "Controllers\\PropertyController.cs",
+              "ViewState": "AQIAAAwAAAAAmZmZmZkhwBgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:54:38.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PropertyDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Dtos\\PropertyDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\PropertyDto.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Dtos\\PropertyDto.cs",
+              "RelativeToolTip": "Dtos\\PropertyDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T19:01:15.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartegoryController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Controllers\\CartegoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartegoryController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Controllers\\CartegoryController.cs",
+              "RelativeToolTip": "Controllers\\CartegoryController.cs",
+              "ViewState": "AQIAABUAAAAADgAAAAD+v2AAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:59:19.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T14:47:14.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Controllers\\StaffController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StaffController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Controllers\\StaffController.cs",
+              "RelativeToolTip": "Controllers\\StaffController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T20:04:26.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SuperAdminDashBord.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Views\\User\\SuperAdminDashBord.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\SuperAdminDashBord.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Views\\User\\SuperAdminDashBord.cshtml",
+              "RelativeToolTip": "Views\\User\\SuperAdminDashBord.cshtml",
+              "ViewState": "AQIAACEAAAAAmZmZmdkhwC8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T17:00:11.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\implementation\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\implementation\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\implementation\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\implementation\\UserRepository.cs",
+              "ViewState": "AQIAAC4AAAAAmJmZmdkswBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:32:38.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PropertyService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Service\\Implementation\\PropertyService.cs",
+              "RelativeDocumentMoniker": "Service\\Implementation\\PropertyService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Service\\Implementation\\PropertyService.cs",
+              "RelativeToolTip": "Service\\Implementation\\PropertyService.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAlwGQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:55:06.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\implementation\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\implementation\\RoleRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\implementation\\RoleRepository.cs",
+              "RelativeToolTip": "Repository\\implementation\\RoleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:12:16.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\implementation\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\implementation\\TransactionRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\implementation\\TransactionRepository.cs",
+              "RelativeToolTip": "Repository\\implementation\\TransactionRepository.cs",
+              "ViewState": "AQIAAEsAAAAAZ2ZmZmYzwBgAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:31:27.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StaffRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\implementation\\StaffRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\implementation\\StaffRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\implementation\\StaffRepository.cs",
+              "RelativeToolTip": "Repository\\implementation\\StaffRepository.cs",
+              "ViewState": "AQIAAAUAAACoMzMzM/MnwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:26:26.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PropertyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\implementation\\PropertyRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\implementation\\PropertyRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\implementation\\PropertyRepository.cs",
+              "RelativeToolTip": "Repository\\implementation\\PropertyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:56:04.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OwnerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\implementation\\OwnerRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\implementation\\OwnerRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\implementation\\OwnerRepository.cs",
+              "RelativeToolTip": "Repository\\implementation\\OwnerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:07:39.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\implementation\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\implementation\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\implementation\\CustomerRepository.cs",
+              "RelativeToolTip": "Repository\\implementation\\CustomerRepository.cs",
+              "ViewState": "AQIAABsAAAAANDMzM3MpwDQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:20:16.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartegoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\implementation\\CartegoryRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\implementation\\CartegoryRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\implementation\\CartegoryRepository.cs",
+              "RelativeToolTip": "Repository\\implementation\\CartegoryRepository.cs",
+              "ViewState": "AQIAACAAAACAmpmZmdkkwC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T16:12:39.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Models\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Models\\Entities\\Role.cs",
+              "RelativeToolTip": "Models\\Entities\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:09:34.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "20240725215344_2tygwsghshsxhusd.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Migrations\\20240725215344_2tygwsghshsxhusd.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240725215344_2tygwsghshsxhusd.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Migrations\\20240725215344_2tygwsghshsxhusd.cs",
+              "RelativeToolTip": "Migrations\\20240725215344_2tygwsghshsxhusd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T21:53:44.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Owner.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Models\\Entities\\Owner.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Owner.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Models\\Entities\\Owner.cs",
+              "RelativeToolTip": "Models\\Entities\\Owner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:07:34.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StaffService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Service\\Implementation\\StaffService.cs",
+              "RelativeDocumentMoniker": "Service\\Implementation\\StaffService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Service\\Implementation\\StaffService.cs",
+              "RelativeToolTip": "Service\\Implementation\\StaffService.cs",
+              "ViewState": "AQIAAOYAAAAAAgAAAEApwG8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T14:29:20.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Property.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Models\\Entities\\Property.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Property.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Models\\Entities\\Property.cs",
+              "RelativeToolTip": "Models\\Entities\\Property.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T15:28:49.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ContextClass.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Context\\ContextClass.cs",
+              "RelativeDocumentMoniker": "Context\\ContextClass.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Context\\ContextClass.cs",
+              "RelativeToolTip": "Context\\ContextClass.cs",
+              "ViewState": "AQIAAB4AAAAAnJmZmZnhvzgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:09:28.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Dashbord.css",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\wwwroot\\css\\Dashbord.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Dashbord.css",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\wwwroot\\css\\Dashbord.css",
+              "RelativeToolTip": "wwwroot\\css\\Dashbord.css",
+              "ViewState": "AQIAACsAAAAANDMzM7MiwEEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-23T18:46:40.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T14:47:06.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T14:47:16.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-20T13:07:00.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PropertysController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Controllers\\PropertysController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PropertysController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Controllers\\PropertysController.cs",
+              "RelativeToolTip": "Controllers\\PropertysController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T17:50:31.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Views\\Customer\\CreateCustomer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\CreateCustomer.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Views\\Customer\\CreateCustomer.cshtml",
+              "RelativeToolTip": "Views\\Customer\\CreateCustomer.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwv0cAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T16:25:21.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Service\\Implementation\\UserService.cs",
+              "RelativeDocumentMoniker": "Service\\Implementation\\UserService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Service\\Implementation\\UserService.cs",
+              "RelativeToolTip": "Service\\Implementation\\UserService.cs",
+              "ViewState": "AQIAANUAAAAAAAAAAAAlwOEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T18:12:25.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:16:09.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Service\\Implementation\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Service\\Implementation\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Service\\Implementation\\CustomerService.cs",
+              "RelativeToolTip": "Service\\Implementation\\CustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:39:40.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "20240724142427_xcvbn6543.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Migrations\\20240724142427_xcvbn6543.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240724142427_xcvbn6543.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Migrations\\20240724142427_xcvbn6543.cs",
+              "RelativeToolTip": "Migrations\\20240724142427_xcvbn6543.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:24:28.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LogIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Views\\User\\LogIn.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\LogIn.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Views\\User\\LogIn.cshtml",
+              "RelativeToolTip": "Views\\User\\LogIn.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T07:31:36.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAlwDwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:00:11.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OwnerService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Service\\Implementation\\OwnerService.cs",
+              "RelativeDocumentMoniker": "Service\\Implementation\\OwnerService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Service\\Implementation\\OwnerService.cs",
+              "RelativeToolTip": "Service\\Implementation\\OwnerService.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAAAJwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T07:13:11.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Service\\Implementation\\RoleService.cs",
+              "RelativeDocumentMoniker": "Service\\Implementation\\RoleService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Service\\Implementation\\RoleService.cs",
+              "RelativeToolTip": "Service\\Implementation\\RoleService.cs",
+              "ViewState": "AQIAAKUAAABASTMzMzMFwLMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T14:03:09.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Service\\Implementation\\TransactionService.cs",
+              "RelativeDocumentMoniker": "Service\\Implementation\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Service\\Implementation\\TransactionService.cs",
+              "RelativeToolTip": "Service\\Implementation\\TransactionService.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:30:58.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAADcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:58:18.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Dashbord.css",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\wwwroot\\css\\Dashbord.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Dashbord.css",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\wwwroot\\css\\Dashbord.css",
+              "RelativeToolTip": "wwwroot\\css\\Dashbord.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-23T18:40:38.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OwnerController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Controllers\\OwnerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OwnerController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Controllers\\OwnerController.cs",
+              "RelativeToolTip": "Controllers\\OwnerController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T20:03:45.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Service\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\IUserService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Service\\Interface\\IUserService.cs",
+              "RelativeToolTip": "Service\\Interface\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:35:14.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CartegoryService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Service\\Implementation\\CartegoryService.cs",
+              "RelativeDocumentMoniker": "Service\\Implementation\\CartegoryService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Service\\Implementation\\CartegoryService.cs",
+              "RelativeToolTip": "Service\\Implementation\\CartegoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T15:42:03.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\UserDto.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "Dtos\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T19:02:06.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TransactionDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Dtos\\TransactionDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\TransactionDto.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Dtos\\TransactionDto.cs",
+              "RelativeToolTip": "Dtos\\TransactionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T19:01:43.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "StaffDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Dtos\\StaffDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\StaffDto.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Dtos\\StaffDto.cs",
+              "RelativeToolTip": "Dtos\\StaffDto.cs",
+              "ViewState": "AQIAAAoAAAAANDMzMzMGwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T19:01:54.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Dtos\\RoleDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\RoleDto.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Dtos\\RoleDto.cs",
+              "RelativeToolTip": "Dtos\\RoleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T19:01:30.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "OwnerDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Dtos\\OwnerDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\OwnerDto.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Dtos\\OwnerDto.cs",
+              "RelativeToolTip": "Dtos\\OwnerDto.cs",
+              "ViewState": "AQIAAAoAAAAAMzMzM7M4wBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T19:01:02.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Dtos\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\CustomerDto.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Dtos\\CustomerDto.cs",
+              "RelativeToolTip": "Dtos\\CustomerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T19:00:49.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Dtos\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Dtos\\CategoryDto.cs",
+              "RelativeToolTip": "Dtos\\CategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T19:00:23.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BaseResponce.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Dtos\\BaseResponce.cs",
+              "RelativeDocumentMoniker": "Dtos\\BaseResponce.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Dtos\\BaseResponce.cs",
+              "RelativeToolTip": "Dtos\\BaseResponce.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T19:30:03.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "20240723155323_rderwywiows.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Migrations\\20240723155323_rderwywiows.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240723155323_rderwywiows.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Migrations\\20240723155323_rderwywiows.cs",
+              "RelativeToolTip": "Migrations\\20240723155323_rderwywiows.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:53:23.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-15T14:46:14.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAAO8dAAAAAAAAAAAMwAkeAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-23T10:31:17.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-20T13:08:48.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Models\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Models\\Entities\\Customer.cs",
+              "RelativeToolTip": "Models\\Entities\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:32:11.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Views\\Shared\\View.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\View.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Views\\Shared\\View.cshtml",
+              "RelativeToolTip": "Views\\Shared\\View.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T13:12:11.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAcAAADAmJmZmVkjwBQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:02:46.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Session.cs",
+              "RelativeDocumentMoniker": "Session.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Session.cs",
+              "RelativeToolTip": "Session.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:56:48.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "RealEstate(Mvc).csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\RealEstate(Mvc).csproj",
+              "RelativeDocumentMoniker": "RealEstate(Mvc).csproj",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\RealEstate(Mvc).csproj",
+              "RelativeToolTip": "RealEstate(Mvc).csproj",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T12:55:46.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CurrentUser.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\implementation\\CurrentUser.cs",
+              "RelativeDocumentMoniker": "Repository\\implementation\\CurrentUser.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\implementation\\CurrentUser.cs",
+              "RelativeToolTip": "Repository\\implementation\\CurrentUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAlwA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:26:05.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T14:47:08.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "Controllers\\TransactionController.cs",
+              "ViewState": "AQIAAF4AAACAzczMzEwpwHMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:03:49.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Controllers\\RoleController.cs",
+              "ViewState": "AQIAADcAAAAAmZmZmZkowE4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:03:19.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T07:31:11.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T07:31:08.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "20240720165038_inyu.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Migrations\\20240720165038_inyu.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240720165038_inyu.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Migrations\\20240720165038_inyu.cs",
+              "RelativeToolTip": "Migrations\\20240720165038_inyu.cs",
+              "ViewState": "AQIAAMMAAAAAyszMzAwnwM4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T16:50:38.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ICurrentUser.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\Interface\\ICurrentUser.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\ICurrentUser.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\Interface\\ICurrentUser.cs",
+              "RelativeToolTip": "Repository\\Interface\\ICurrentUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T14:04:08.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IStaffService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Service\\Interface\\IStaffService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\IStaffService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Service\\Interface\\IStaffService.cs",
+              "RelativeToolTip": "Service\\Interface\\IStaffService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T19:28:38.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Service\\Interface\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\ITransactionService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Service\\Interface\\ITransactionService.cs",
+              "RelativeToolTip": "Service\\Interface\\ITransactionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:28:38.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Service\\Interface\\IRoleService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\IRoleService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Service\\Interface\\IRoleService.cs",
+              "RelativeToolTip": "Service\\Interface\\IRoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:33:11.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IPropertyService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Service\\Interface\\IPropertyService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\IPropertyService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Service\\Interface\\IPropertyService.cs",
+              "RelativeToolTip": "Service\\Interface\\IPropertyService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:42:05.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IOwnerService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Service\\Interface\\IOwnerService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\IOwnerService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Service\\Interface\\IOwnerService.cs",
+              "RelativeToolTip": "Service\\Interface\\IOwnerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T19:28:10.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Service\\Interface\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Service\\Interface\\ICustomerService.cs",
+              "RelativeToolTip": "Service\\Interface\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:41:01.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ICartegoryService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Service\\Interface\\ICartegoryService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\ICartegoryService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Service\\Interface\\ICartegoryService.cs",
+              "RelativeToolTip": "Service\\Interface\\ICartegoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T14:50:27.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Migrations\\ContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Migrations\\ContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T20:13:07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20240715155047_initialcreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Migrations\\20240715155047_initialcreate.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240715155047_initialcreate.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Migrations\\20240715155047_initialcreate.Designer.cs",
+              "RelativeToolTip": "Migrations\\20240715155047_initialcreate.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T20:12:48.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Models\\Entities\\Staff.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Staff.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Models\\Entities\\Staff.cs",
+              "RelativeToolTip": "Models\\Entities\\Staff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:49:27.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "IPropertyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\Interface\\IPropertyRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IPropertyRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\Interface\\IPropertyRepository.cs",
+              "RelativeToolTip": "Repository\\Interface\\IPropertyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:09:27.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Models\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Models\\Entities\\Category.cs",
+              "RelativeToolTip": "Models\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:23:50.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "IStaffRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\Interface\\IStaffRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IStaffRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\Interface\\IStaffRepository.cs",
+              "RelativeToolTip": "Repository\\Interface\\IStaffRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T07:04:56.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "IOwnerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\Interface\\IOwnerRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IOwnerRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\Interface\\IOwnerRepository.cs",
+              "RelativeToolTip": "Repository\\Interface\\IOwnerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T07:01:01.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "Repository\\Interface\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T07:09:40.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Models\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Person.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Models\\Entities\\Person.cs",
+              "RelativeToolTip": "Models\\Entities\\Person.cs",
+              "ViewState": "AQIAAAUAAACAMzMzM/MqwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:03:52.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\Interface\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\ITransactionRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\Interface\\ITransactionRepository.cs",
+              "RelativeToolTip": "Repository\\Interface\\ITransactionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T07:08:29.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "IRoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\Interface\\IRoleRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IRoleRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\Interface\\IRoleRepository.cs",
+              "RelativeToolTip": "Repository\\Interface\\IRoleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:26:15.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\Interface\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\Interface\\ICustomerRepository.cs",
+              "RelativeToolTip": "Repository\\Interface\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T06:55:44.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "ICartegoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\Interface\\ICartegoryRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\ICartegoryRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Repository\\Interface\\ICartegoryRepository.cs",
+              "RelativeToolTip": "Repository\\Interface\\ICartegoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T06:54:49.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "Models\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:04:24.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Models\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Models\\Entities\\Transaction.cs",
+              "RelativeToolTip": "Models\\Entities\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:25:23.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T12:47:23.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T12:49:01.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Models\\Context\\Context.cs",
+              "RelativeDocumentMoniker": "Models\\Context\\Context.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Models\\Context\\Context.cs",
+              "RelativeToolTip": "Models\\Context\\Context.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:42:53.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Models\\Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\UserRole.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Models\\Entities\\UserRole.cs",
+              "RelativeToolTip": "Models\\Entities\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:12:01.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Views\\Cartegory\\View.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cartegory\\View.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Views\\Cartegory\\View.cshtml",
+              "RelativeToolTip": "Views\\Cartegory\\View.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T11:29:38.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "TYpeOfLeases.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Models\\Enum\\TYpeOfLeases.cs",
+              "RelativeDocumentMoniker": "Models\\Enum\\TYpeOfLeases.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Models\\Enum\\TYpeOfLeases.cs",
+              "RelativeToolTip": "Models\\Enum\\TYpeOfLeases.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:34:28.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Models\\Enum\\Gender.cs",
+              "RelativeDocumentMoniker": "Models\\Enum\\Gender.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Models\\Enum\\Gender.cs",
+              "RelativeToolTip": "Models\\Enum\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T14:49:46.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T14:47:18.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "PropertyCategory.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Models\\Entities\\PropertyCategory.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\PropertyCategory.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Models\\Entities\\PropertyCategory.cs",
+              "RelativeToolTip": "Models\\Entities\\PropertyCategory.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:39:09.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Models\\Entities\\Seller.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Seller.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PogrammingProjects\\RealEstate(Mvc)\\Models\\Entities\\Seller.cs",
+              "RelativeToolTip": "Models\\Entities\\Seller.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:53:39.533Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

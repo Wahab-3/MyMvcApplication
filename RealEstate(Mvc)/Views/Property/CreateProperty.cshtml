@@ -1,0 +1,57 @@
+﻿@using RealEstate_Mvc_.Dtos
+@using RealEstate_Mvc_.Service.Implementation
+
+
+@model PropertyRequestModel;
+@if (ViewBag.Message != null)
+{
+    <div class="alert alert-danger">
+        @ViewBag.Message
+    </div>
+}
+<div class="container d-flex align-items-center justify-content-center">
+    <div class="card p-4 shadow-sm w-100" style="max-width: 650px;">
+        <h3 class="text-center mb-4">Create Property</h3>
+        <form asp-action="Create Property" enctype="multipart/form-data">
+            <div class="mb-3">
+                <label asp-for="Location" class="form-label">Location</label>
+                <input type="text" class="form-control" placeholder="Location" asp-for="Location" />
+            </div>
+            <div class="mb-3">
+                <label asp-for="Description" class="form-label">Description</label>
+                <input type="text" class="form-control" placeholder="Description" asp-for="Description" />
+            </div>
+            <div class="mb-3">
+                <label asp-for="Email" class="form-label">Email</label>
+                <input type="email" class="form-control" placeholder="Email" asp-for="Email" />
+            </div>
+            <div class="mb-3">
+                <label asp-for="Price" class="form-label">Price</label>
+                <input type="number" class="form-control" placeholder="Price" asp-for="Price" />
+            </div>
+            <div class="mb-3">
+                <label asp-for="TypeOfLeases" class="form-label">TypeOfLeases</label>
+                <select class="form-control" asp-for="TypeOfLeases">
+                    <option value="">Select TypeOfLeases</option>
+                    <option value="For Rent">For Rent</option>
+                    <option value="For Sale">For Sale</option>
+                </select>
+            </div>
+            <div class="mb-3">
+                <label asp-for="CategoryId" class="form-label">Category</label>
+                <select class="form-select" asp-for="CategoryId" asp-items="Model.Categories">
+                    <option value="" selected>--Select Cartegory--</option>
+                </select>
+            </div>
+            <br>
+            <div class="mb-3">
+                <label asp-for="ProfilePicture" class="form-label">PropertyImage</label>
+                <input type="file" class="form-control" asp-for="ProfilePicture" />
+                <span asp-validation-for="ProfilePicture" class="text-danger"></span>
+            </div>
+            <div class="d-grid">
+                <input asp-controller="Property" asp-action="createProperty" type="submit" value="Submit " class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,42 @@
+﻿@using RealEstate_Mvc_.Dtos
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model UserLoginRequestModel;
+
+@if (ViewBag.Message != null)
+{
+    <div class="alert alert-danger">
+        @ViewBag.Message
+    </div>
+}
+<div class="container d-flex align-items-center justify-content-center">
+    <div class="card p-4 shadow-sm w-100" style="max-width: 650px;">
+        <h3 class="text-center mb-4">Login</h3>
+        <form asp-action="Login">
+<div class="mb-3">
+    <label asp-for="Email" class="form-label">Email</label>
+    <input type="email" class="form-control" placeholder="WALE@gmail.com" asp-for="Email" />
+</div>
+<div class="mb-3">
+    <label asp-for="Password" class="form-label">Password</label>
+    <input type="Password" class="form-control" placeholder="......." asp-for="Password" />
+</div>
+<div class="d-grid">
+    <input asp-controller="User" asp-action="Login" type="submit" value="Submit " class="btn btn-primary" />
+</div>
+        </form>
+    </div>
+</div>
+<script>
+    // JavaScript to remove the message after 5 seconds (5000 milliseconds)
+    setTimeout(function () {
+        var messageElement = document.getElementById('loginMessage');
+        if (messageElement) {
+            messageElement.style.display = 'none';
+        }
+    }, 50);
+</script>
